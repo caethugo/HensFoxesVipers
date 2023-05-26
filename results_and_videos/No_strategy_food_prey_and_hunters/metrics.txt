@@ -1,0 +1,6 @@
+Hens disappeared at: None
+Foxes disappeared at: None
+Vipers disappeared at: None
+Hens dominated from: None to None
+Foxes dominated from: None to None
+Vipers dominated from: 472 to 1467
